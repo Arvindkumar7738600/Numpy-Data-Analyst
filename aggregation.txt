@@ -1,0 +1,15 @@
+Aggregation functions ( summarise)
+
+functions               use
+
+np.summ(arry)           add
+
+np.mean(array)          calculate avg.
+
+np.avg(array)
+
+np.max(array)
+
+np.std(array)
+
+np.var(array)
