@@ -1,0 +1,11 @@
+'''
+.revel() means return a view of the array with reversed shape.
+.flatten() means return a copy of the array collapsed into one dimension.
+
+'''
+
+
+import numpy as np
+arr = np.array([[1, 2, 3], [4, 5, 6]])
+print(arr.ravel())    # Output: [1 2 3 4 5 6]
+print(arr.flatten())  # Output: [1 2 3 4 5 6]
